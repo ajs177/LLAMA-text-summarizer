@@ -42,3 +42,4 @@ llama-pro-8b.Q4_K_S.gguf filter=lfs diff=lfs merge=lfs -text
 llama-pro-8b.Q4_K_M.gguf filter=lfs diff=lfs merge=lfs -text
 llama-pro-8b.Q5_0.gguf filter=lfs diff=lfs merge=lfs -text
 llama-pro-8b.Q5_K_S.gguf filter=lfs diff=lfs merge=lfs -text
+llama-pro-8b.Q5_K_M.gguf filter=lfs diff=lfs merge=lfs -text
