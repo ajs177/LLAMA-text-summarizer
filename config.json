@@ -1,3 +1,4 @@
 {
     "model_type": "llama"
+    "model_path": "llama-pro-8b.Q2_K.gguf"
 }
